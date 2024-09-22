@@ -10,6 +10,11 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^4.15.8"
+    "@swup/parallel-plugin": "^0.4.0",
+    "astro": "^4.15.8",
+    "swup": "^4.7.0"
+  },
+  "devDependencies": {
+    "sass": "^1.79.3"
   }
 }
